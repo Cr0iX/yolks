@@ -20,7 +20,7 @@ example of this would be something like Java or Python which are used for runnin
   * [`ubuntu23`](https://github.com/Cr0iX/yolks/tree/main/oses/ubuntu23)
     * `ghcr.io/cr0ix/yolks:ubuntu23`
 
-### Installation Images
+## Installation Images
 
 * [`ubuntu23`](https://github.com/Cr0iX/yolks/tree/main/installers/ubuntu23)
   * `ghcr.io/cr0ix/installers:ubuntu23`
