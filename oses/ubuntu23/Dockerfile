@@ -2,6 +2,8 @@ FROM  --platform=$TARGETOS/$TARGETARCH ubuntu:23.04
 
 LABEL author="Cr0iX" maintainer="meh@dont-email.com"
 
+LABEL org.opencontainers.image.source https://github.com/Cr0iX/yolks
+
 ENV   DEBIAN_FRONTEND noninteractive
 
 ## add container user
